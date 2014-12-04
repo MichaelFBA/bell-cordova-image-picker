@@ -7,6 +7,7 @@ Package.describe({
 
 Package.onUse(function(api) {
   api.versionsFrom('1.0');
+  api.export("ImagePicker");
   api.addFiles('bell:cordova-image-picker.js');
   api.add_files([
 		// Core
