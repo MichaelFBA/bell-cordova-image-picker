@@ -1,0 +1,3 @@
+[submodule "cordova-imagePicker"]
+	path = cordova-imagePicker
+	url = https://github.com/wymsee/cordova-imagePicker

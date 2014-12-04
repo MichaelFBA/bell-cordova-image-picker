@@ -1,8 +1,8 @@
 Package.describe({
   name: 'bell:cordova-image-picker',
-  summary: ' Cordova Image Picker meteor package ',
+  summary: ' Cordova Image Picker meteor package',
   version: '1.0.4',
-  git: ' /* Fill me in! */ '
+  git: 'https://github.com/MichaelFBA/bell-cordova-image-picker'
 });
 
 Package.onUse(function(api) {
